@@ -1,0 +1,21 @@
+multipage_concurrences = {'swapy': 95, 'awesome-podcasts': 4349, 'wemake-django-template': 112,
+                          'social-app-django': 518, 'django-dynamic-raw-id': 95, 'python-videos-ru-2018': 68,
+                          'gopher-reading-list': 5098, 'Back-End-Developer-Interview-Questions': 7656, 'patroni': 1640,
+                          'Pyrlang': 190, 'colly': 4397, 'django-postgres-copy': 83, 'django-cacheops': 873,
+                          'every-programmer-should-know': 33218, 'API-Security-Checklist': 11102, 'prest': 1679,
+                          'Functional-Light-JS': 8107, 'react-things': 548, 'coding-interview-university': 63576,
+                          'badger': 3705, 'apistar': 4025, 'ponzu': 3688, 'interactive-coding-challenges': 12868,
+                          'aiotasks': 237, 'react-bits': 9051, 'localstack': 11805,
+                          'Become-A-Full-Stack-Web-Developer': 10135, 'nakadi': 304, 'system-design-primer': 26028,
+                          'django-admino': 194, 'design-patterns-for-humans': 20851,
+                          'awesome-deep-learning-papers': 14691, 'flask-diamond': 155, 'twisted': 2645,
+                          'autobahn-python': 1767, 'daphne': 604, 'cpython': 17595, 'japronto': 5878, 'meinheld': 935,
+                          'pinax': 2357, 'wrapt': 846, 'walrus': 455, 'flask-http2-push': 19, 'flask-base': 1550,
+                          'webpack-howto': 10045, 'Frozen-Flask': 531, 'channels-examples': 699, 'tflearn': 8031,
+                          'flask-classful': 85, 'flask-kit': 218, 'eve': 4977, 'awesome-python-books': 1893,
+                          'frontend-whitelist': 638, 'django': 33792, 'alchemy-framework': 685,
+                          'frontend-dev-bookmarks': 24134, 'DataSciencePython': 3071, 'You-Dont-Know-JS': 81575,
+                          'jsraccoon': 659, 'python-cookbook-ru': 135, 'channels': 3483, 'flusk': 87,
+                          'incubator-superset': 19114, 'flask': 35659}
+
+unopage_concurrences = {'server': 1}
